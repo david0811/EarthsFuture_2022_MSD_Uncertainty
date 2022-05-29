@@ -1,1 +1,1 @@
-fig5/data/** filter=lfs diff=lfs merge=lfs -text
+fig6/data/** filter=lfs diff=lfs merge=lfs -text
